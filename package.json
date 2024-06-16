@@ -1,6 +1,8 @@
 {
   "name": "edusign",
   "private": true,
+  "main" : "main.js",
+  "homepage": "./",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
